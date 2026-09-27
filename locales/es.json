@@ -128,6 +128,7 @@
   "docs.license.text": "MoonClip es software libre bajo la GNU General Public License v3 (solo).",
 
   "footer.text": "MoonClip — software libre bajo GPL v3",
+  "footer.privacy": "Privacidad",
   "footer.repo.new": "MoonClip (actual)",
   "footer.repo.old": "MoonClip 0.1.7 (deprecated)"
 }
