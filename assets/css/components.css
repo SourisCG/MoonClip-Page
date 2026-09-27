@@ -304,6 +304,27 @@
   flex-wrap: wrap;
 }
 
+/* YouTube API Services: enlaces exigidos por la API de YouTube (ToS +
+   privacidad de Google) junto al enlace de privacidad del proyecto. */
+.footer-youtube {
+  width: 100%;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.8rem;
+}
+
+.footer-youtube a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.footer-youtube a:hover {
+  color: var(--text);
+}
+
 /* Insignias de estado de características */
 .status-badge {
   display: inline-block;

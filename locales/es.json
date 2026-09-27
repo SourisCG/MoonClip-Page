@@ -130,5 +130,8 @@
   "footer.text": "MoonClip — software libre bajo GPL v3",
   "footer.privacy": "Privacidad",
   "footer.repo.new": "MoonClip (actual)",
-  "footer.repo.old": "MoonClip 0.1.7 (deprecated)"
+  "footer.repo.old": "MoonClip 0.1.7 (deprecated)",
+  "footer.youtube.api": "YouTube API Services",
+  "footer.youtube.terms": "Términos de Servicio de YouTube",
+  "footer.youtube.privacy": "Privacidad de Google"
 }
